@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Full Name]
+# 👋 Hi, I'm Jnyandeep Anakapalli
 
 Backend-focused developer building real-world applications with clean architecture and modern tools.
 
