@@ -1,64 +1,261 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<div align="center">
 
-<!-- Dynamic Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Software+Engineer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
+<!-- ANIMATED HEADER SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,50:2E75B6,100:006B6B&height=200&section=header&text=Jnyandeep%20Anakapalli&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<!-- Social Links / Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/[YourLinkedInUsername]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/[YourTwitterUsername]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="[YourPortfolioWebsiteURL]">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/jnyandeep">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2E75B6&center=true&vCenter=true&width=700&lines=Building+at+the+intersection+of+AI+%2B+Security;Post-Quantum+Cryptography+Researcher;Distributed+Systems+%7C+GCP+%7C+Kubernetes;ECIL+%E2%80%94+Dept.+of+Atomic+Energy+%7C+Security;From+Hyderabad+%E2%86%92+Top+1%25" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- PROFILE BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jnyandeep)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Blog-1F4E79?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@jnyandeep)
+![Profile Views](https://komarev.com/ghpvc/?username=jnyandeep&style=for-the-badge&color=2E75B6&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## ⚡ About Me
 
-* 🔭 I’m currently working on **[Name of your current project or company]**
-* 🌱 I’m currently learning **[A new language, framework, or skill]**
-* 👯 I’m looking to collaborate on **[Type of projects, e.g., Open Source React projects]**
-* 💬 Ask me about **[Your strongest skills, e.g., Python, UI/UX, Cloud Architecture]**
-* 📫 How to reach me: **[Your Email Address]**
-* ⚡ Fun fact: **[A quirky or interesting fact about you]**
+```python
+class Jnyandeep:
+    name        = "Jnyandeep Anakapalli"
+    location    = "Hyderabad, India 🇮🇳"
+    role        = "Software Engineer @ Cognizant Technology Solutions"
+    client      = "KeyBank NA — Enterprise Java Microservices on GCP"
+    
+    interests   = [
+        "AI Security & Adversarial Machine Learning",
+        "Post-Quantum Cryptography (CRYSTALS-Kyber, FALCON)",
+        "Distributed Systems & Cloud Engineering",
+        "Building things that actually matter"
+    ]
+    
+    background  = {
+        "ECIL"      : "Cybersecurity Intern — Dept. of Atomic Energy, Govt. of India 🔐",
+        "Cognizant" : "Junior SWE — GCP, Kubernetes, Java, Spring Boot, PostgreSQL ☁️",
+        "Education" : "B.Tech CSE — GITAM University (7.76 CGPA) 🎓"
+    }
+    
+    currently_building = "AI-powered API Security Analyzer (OWASP Top 10)"
+    next_goal          = "Post-Quantum Key Exchange implementation (CRYSTALS-Kyber)"
+    
+    def fun_fact(self):
+        return "I fixed a memory leak that senior engineers missed twice 🐛→✅"
+```
 
 ---
 
-### 🛠️ Tech Stack
+## 🎯 What I'm Working On
 
-*Replace these with the tools you actually use!*
+<table>
+<tr>
+<td width="50%">
 
-**Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</p>
+### 🔐 API Security Analyzer
+An automated tool that scans REST APIs for OWASP Top 10 vulnerabilities. Built with Python, combining my cybersecurity foundation from ECIL with backend engineering experience.
 
-**Tools & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+**Stack:** `Python` `FastAPI` `Docker` `OWASP`
+
+</td>
+<td width="50%">
+
+### ⚛️ Post-Quantum Key Exchange
+Implementing CRYSTALS-Kyber using Open Quantum Safe. Exploring lattice-based cryptography before the quantum threat becomes mainstream.
+
+**Stack:** `Python` `liboqs` `NIST PQC Standards`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <!-- Replace 'YOUR_GITHUB_USERNAME' with your actual username below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+
+**Languages**
+
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+
+**Backend & Frameworks**
+
+[![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+
+**Cloud & DevOps**
+
+[![GCP](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+
+**Databases & Monitoring**
+
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
+[![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jnyandeep&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E75B6&icon_color=006B6B&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnyandeep&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E75B6&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=jnyandeep&theme=tokyonight&hide_border=true&background=0D1117&ring=2E75B6&fire=006B6B&currStreakLabel=2E75B6" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 Highlights That Matter
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   ⚡  15x query optimization   12s → 800ms  (PostgreSQL indexing)  │
+│                                                                     │
+│   🔧  40% reduction in deployment failures  (CI/CD pipeline fix)   │
+│                                                                     │
+│   🧠  Identified memory leak senior engineers missed  (Dynatrace)  │
+│                                                                     │
+│   📊  60% improvement in monitoring coverage  (ELK Stack)          │
+│                                                                     │
+│   🔐  Outstanding grade — ECIL Dept. of Atomic Energy internship   │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🔐 Security Background
+
+<div align="center">
+
+| Domain | Tools & Frameworks |
+|--------|-------------------|
+| Threat Analysis | `MITRE ATT&CK` `ATT&CK Navigator` `Kill Chain Mapping` |
+| Malware Analysis | `PE Explorer` `Wireshark` `Sandbox Analysis` `IOC Extraction` |
+| Network Security | `iptables` `pfSense` `IDS/IPS` `Packet Analysis` |
+| IAM | `RBAC` `Least Privilege` `MFA` `Active Directory` |
+| Cryptography | `Network Security` `PKI` `Post-Quantum (learning)` |
+
+*Internship at ECIL — Electronics Corporation of India Limited, Dept. of Atomic Energy, Govt. of India*
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+```
+Progress Map — 2026
+───────────────────────────────────────────────────────────────
+
+  DSA (NeetCode 150)          ████████░░░░░░░░░░░░  Starting
+  AWS Cloud Practitioner      ██████░░░░░░░░░░░░░░  Prep phase
+  CompTIA Security+           ████░░░░░░░░░░░░░░░░  Month 3
+  Post-Quantum Cryptography   ██░░░░░░░░░░░░░░░░░░  Long game
+  LangChain + AI Engineering  ███░░░░░░░░░░░░░░░░░  Month 3
+
+───────────────────────────────────────────────────────────────
+```
+
+</div>
+
+---
+
+## 🎯 The Intersection I'm Building Toward
+
+<div align="center">
+
+```
+        AI Systems
+            │
+            │
+            ▼
+    ┌───────────────┐
+    │               │
+    │  AI  Security │  ◄── Where I'm heading
+    │               │
+    └───────┬───────┘
+            │
+            ▼
+    Post-Quantum Era
+    
+    Systems get attacked.
+    AI makes attacks smarter.
+    Quantum breaks the locks.
+    Someone needs to fix all three.
+    
+    That's the problem I'm building for.
+```
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🔧 [How I fixed a memory leak that senior engineers missed twice](#)
+- 📊 [15x query optimization — what PostgreSQL execution plans taught me](#)
+- 🔐 [What a government defense cybersecurity internship actually looks like](#)
+- ⚛️ [Why I'm learning post-quantum cryptography at 22](#)
+<!-- BLOG-POST-LIST:END -->
+
+*→ [Read more on my blog](#)*
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+I'm always open to conversations about:
+
+**AI Security** • **Post-Quantum Cryptography** • **Distributed Systems** • **Career transitions from services to product**
+
+If you're working on something interesting in these spaces — reach out.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jnyandeep)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:006B6B,50:2E75B6,100:1F4E79&height=120&section=footer&animation=fadeIn"/>
+
+*"The top 1% is not a talent club. It is a consistency club."*
+
+**Hyderabad → Top 1% → 2030**
+
+</div>
